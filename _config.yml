@@ -26,8 +26,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Explore multiuser VR simulators, interactive art, and cutting-edge research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "davidgoedicke.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: davidGoedicke
+#twitter_username: davidGoedicke
 github_username:  DavidGoedicke
+youtube_username: DavidGoedicke
+google_scholar: DavidGoedicke
+#linkedin_username: david-goedicke-969446b6
 
 # Build settings
 theme: minima

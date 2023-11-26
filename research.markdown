@@ -6,7 +6,7 @@ permalink: /research/
 
 ---
 ## Research
-My research work has spanned a wide range of application areas, consistently focusing on prototyping immersive experiences to elicit various types of responses from participants. My initial research in 2012 explored interactive playgrounds. Currently, my focus is on utilizing immersive technology to design and evaluate robotic and autonomous behaviors.
+[My research work](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en) has spanned a wide range of application areas, consistently focusing on prototyping immersive experiences to elicit various types of responses from participants. My initial research in 2012 explored interactive playgrounds. Currently, my focus is on utilizing immersive technology to design and evaluate robotic and autonomous behaviors.
 
 ### Simulation
 The Ph.D. Thesis provides a comprehensive summary of my work on simulators over recent years, featuring three key simulators that I highlight below. The thesis presentation offers a video overview of these methods.
@@ -18,7 +18,7 @@ The Ph.D. Thesis provides a comprehensive summary of my work on simulators over 
 Should you be so inclined, you are welcome to [review the thesis](../assets/attachments/Driving_Simulation_for_Interac.pdf).
 
 #### XR-ROOM and VR-OOM
-![Deploying XR-OOM](../assets/images/David_ParkingLot.JPG){:style="float: right; width:40%; padding:5px"}
+![Deploying XR-OOM](../assets/images/David_ParkingLotCrop.jpeg){:style="float: right; width:40%; padding:5px"}
 The XR-OOM and VR-OOM systems offers high-fidelity, mixed/virtual-reality driving simulations using a real moving vehicle as part of the simulator. The focus of these publications was to established the technical feasability of these systems, and validate their use with some inital testing.
  
 The two main publications are [VR-OOM (CHI-2018)](https://doi.org/10.1145/3491102.3517704) and [XR-OOM (CHI-2022)](https://doi.org/10.1145/3173574.3173739).
@@ -29,7 +29,7 @@ The two main publications are [VR-OOM (CHI-2018)](https://doi.org/10.1145/349110
 
 #### StrangeLand
 
-![Deploying StrangeLand](../assets/images/NewHeroStrangeLand.png){:style="float: left; width:40%; padding:5px"}
+![Deploying StrangeLand](../assets/images/NewHeroStrangeLand.jpg){:style="float: left; width:40%; padding:5px"}
 [StrangeLand](https://doi.org/10.1109/TVT.2022.3152611) is a portable, multi-participant VR system to profile human driving behavior across geographical locations, aiming to enable autonomous vehicles to adapt to local norms. The focus was on establishing the system's functionality and validity through cross-cultural deployments. StrangeLand is currently extend to include more participants direct ROS clients to enable Human Robot Interaction experiemnts. [GitHub organization.](https://github.com/orgs/Strange-Land/)
 
 ### Acoustically Aware Robots

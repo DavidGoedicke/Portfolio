@@ -7,12 +7,11 @@ permalink: /(interactive)art/
 ---
 
 ### Interactives
-Over the years, I've collaborated on creating interactive art pieces, from physical installations like *The Creative Mind*(TBD) to digital video works for BringYourOwnBeamer events to creating reactive theater stages. Some of these projects have even evolved into full-fledged apps available as mobile phone App. 
+Over the years, I've collaborated on creating interactive art pieces, from physical installations like to digital video works to creating reactive theater stages.
 
->*(Links and images to these projects are currently still collected.)*
 
 ### Music
-I began playing drums at age five and composing at 17. I performed in various bands and orchestras until I completed my Master's degree. Nowadays, I focus on composing solo pieces, mainly using software like LogicPro, Cubase, and Ableton. I collaborate on many video projects with [Emile Harmsen](https://emielharmsen.com), providing the music, and have aspirations to venture into live music production/coding/DJing. 
+I began playing drums at age five and composing at 17. I performed in various bands and orchestras until I completed my Master's degree. Nowadays, I focus on composing solo pieces, mainly using software like LogicPro, Cubase, and Ableton. I collaborate on many video projects with [Emiel Harmsen](https://emielharmsen.com), providing the music, and have aspirations to venture into live music production/coding/DJing. 
 I maintain a somewhat updated [SoundCloud](https://soundcloud.com/davidgoedi) and occasionally stream live music on [YouTube](https://www.youtube.com/@makingmusicwithfriendssome4015).
 #### Code + .svg + Max .
 <figure style="float: right; width: 25%; text-align: center; padding: 10px">

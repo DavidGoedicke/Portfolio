@@ -16,12 +16,8 @@ show_title: false
 
 *I enjoy creating immersive experiences to prototype future technologies and designs.*
 
-*Sometimes, this manifests in the form of [academic research]({% link research.markdown %}) or as [interactive art]({% link interactiveArt.markdown %}) exhibits.*
+*This manifests in the form of [academic research]({% link research.markdown %}) or as [interactive art]({% link interactiveArt.markdown %}).*
 
-*I also engage in [music production]({% link interactiveArt.markdown %}/#Sound-Cloud) occasionally.*
+*I also engage in [music production]({% link interactiveArt.markdown %}/#Sound-Cloud).*
 
-<br>
-<br>
-#### CV
-
-Please feel free to contact me and have alook at my [CV here.](../assets/attachments/David_CV_NoAddress.pdf)
+*Recently, I finished my Ph.D. at Corenll with [Wendy Ju](https://www.wendyju.com). The published work can be found on [Google Scholar](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).* 
