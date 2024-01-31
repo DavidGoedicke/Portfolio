@@ -7,8 +7,8 @@ show_title: false
 
 
 <figure style="float: right; width: 45%; text-align: center; padding: 10px">
-  <img src="../assets/images/DavidGoedicke.jpg" alt="A picture of David Goedicke." width="100%">
-  <figcaption>Picture by <a href="http://amritkwatra.com" target="_blank">Amrit Kwatra</a>.</figcaption>
+  <img src="../assets/images/RI_Picture.jpeg" alt="A picture of David Goedicke." width="100%">
+  <figcaption>Picture by a friend.</figcaption>
 </figure>
 
 
@@ -20,4 +20,7 @@ show_title: false
 
 *I also engage in [music production]({% link interactiveArt.markdown %}/#Sound-Cloud).*
 
-*Recently, I finished my Ph.D. at Corenll with [Wendy Ju](https://www.wendyju.com). The published work can be found on [Google Scholar](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).* 
+*Recently, I finished my Ph.D. at Cornell with [Wendy Ju](https://www.wendyju.com). The published work can be found on [Google Scholar](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).* 
+
+<br>
+<!-- <center><h2>Looking for a Job in Europe starting March 2024!</h2></center> --> 

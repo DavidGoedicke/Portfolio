@@ -45,3 +45,10 @@ This project explores the use of Wizard-of-Oz-backed voice assistants in automat
 #### Human-Drone Interaction
 [A Drone Teacher: Designing Physical Human-Drone Interactions for Movement Instruction](https://doi.org/10.1145/3568162.3576985).
 This project delves into enhancing drone-to-human communication through physical touch. The study designs and evaluates various modes of physical interaction, finding continuous physical feedback to be the most effective and preferred method for instructive tasks.
+
+### Electronics 
+![PCB](../assets/images/PCB.jpeg){:style="float: right; width:40%; padding:5px"}
+
+In this side project, I developed a parametric stereo equalizer, by merging various established designs. This project reflects my basic proficiency in electronic and PCB design, underscoring my commitment to continuous learning in this field. 
+
+References: [Power Supply](https://sound-au.com/project192.htm), [Tone Control](https://sound-au.com/articles/eq.htm#s6), [State Variable Filters](https://sound-au.com/articles/state-variable.htm#s30), [Headphone Amp](https://sound-au.com/project113.htm), [Urei 545 Design](https://www.schematicsforfree.com/archive/file/Audio/Products/Professional%20Audio/U-V/UREI/UREI%20545%20Parametric%20EQ.jpg). [The Annotated PCB](../assets/images/AnnotatedPCB.jpg)
