@@ -47,7 +47,7 @@ This project explores the use of Wizard-of-Oz-backed voice assistants in automat
 This project delves into enhancing drone-to-human communication through physical touch. The study designs and evaluates various modes of physical interaction, finding continuous physical feedback to be the most effective and preferred method for instructive tasks.
 
 ### Electronics 
-![PCB](../assets/images/PCB.jpeg){:style="float: right; width:40%; padding:5px"}
+![PCB](../assets/images/pcb.jpeg){:style="float: right; width:40%; padding:5px"}
 
 In this side project, I developed a parametric stereo equalizer, by merging various established designs. This project reflects my basic proficiency in electronic and PCB design, underscoring my commitment to continuous learning in this field. 
 
