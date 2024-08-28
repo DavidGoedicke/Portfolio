@@ -4,23 +4,19 @@ permalink: /
 show_title: false
 ---
 
-
-
-<figure style="float: right; width: 45%; text-align: center; padding: 10px">
-  <img src="../assets/images/RI_Picture.jpeg" alt="A picture of David Goedicke." width="100%">
-  <figcaption>Picture by a friend.</figcaption>
+<figure style="float: right; width: 46%; text-align: center; padding: 10px">
+  <img src="../assets/images/DavidGoedicke.jpg" alt="A picture of David Goedicke. This picture was made by Amrit http://amritkwatra.com" width="100%">
 </figure>
 
+# Welcome
 
-*Hello, this is David.*
+I am David Goedicke, a researcher and innovator dedicated to advancing our understanding of human-technology interactions. My work focuses on developing immersive experiences and innovative prototypes to explore future technologies and their impact on society.
 
-*I enjoy creating immersive experiences to prototype future technologies and designs.*
+Currently, I am a Postdoctoral Researcher at the University of Duisburg-Essen, where I collaborate with the [Human-Computer Interaction](https://hci.informatik.uni-due.de) under the mentorship of Prof. Dr. Stefan Schneegaß. My research specializes in utilizing VR/XR simulators and qualitative behavioral methods to investigate complex interactions between users, robots, and simulated agents in virtual and augmented environments.
 
-*This manifests in the form of [academic research]({% link research.markdown %}) or as [interactive art]({% link interactiveArt.markdown %}).*
+With a strong foundation in interactive art, game development, and music, I strive to enrich the qualitative depth of technological interactions, particularly in the domains of human-robot interaction and automated systems. My academic journey includes a Ph.D. in Information Science from Cornell Tech and an M.Sc. in Human Media Interaction from the University of Twente.
 
-*I also engage in [music production]({% link interactiveArt.markdown %}/#Sound-Cloud).*
+Explore my [academic research]({% link research.markdown %}) and [interactive art projects]({% link interactiveArt.markdown %}). Additionally, you can listen to my [music productions]({% link interactiveArt.markdown %}/#Sound-Cloud) that reflect my interdisciplinary approach to technology and creativity.
 
-*Recently, I finished my Ph.D. at Cornell with [Wendy Ju](https://www.wendyju.com). The published work can be found on [Google Scholar](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).* 
+For more details on my work and publications, visit my [Google Scholar profile](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).
 
-<br>
-<!-- <center><h2>Looking for a Job in Europe starting March 2024!</h2></center> --> 
