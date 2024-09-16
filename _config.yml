@@ -33,7 +33,7 @@ google_scholar: DavidGoedicke
 #linkedin_username: david-goedicke-969446b6
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 #plugins:
 # - jekyll-feed
 
