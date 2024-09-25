@@ -21,22 +21,16 @@
 title: David Goedicke (Ph.D.)
 author:
   name: David Goedicke
-  email: da.goedicke+WEBSITE@gmail.com
-#logo: 
+  email_actual: da.goedicke+WEBSITE@gmail.com
+  email: da.goedicke@gmail.com
+# logo: 
 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   David's Portfolio: Innovating at the Intersection of 
   Immersive Experiences and Human-Robot Interaction. 
   Explore multiuser VR simulators, interactive art, and cutting-edge research.
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "davidgoedicke.info" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: davidGoedicke
-#github_username:  DavidGoedicke
-#youtube_username: DavidGoedicke
-#google_scholar: DavidGoedicke
-#linkedin_username: david-goedicke-969446b6
+url: "davidgoedicke.info" 
 
-#theme: jekyll-theme-minimal
 theme: minima
 
 plugins:

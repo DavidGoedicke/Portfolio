@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
+center_heading: true
 ---
 <!--<center><h2>CV</h2></center>-->
 
