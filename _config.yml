@@ -19,40 +19,73 @@
 # in the templates via {{ site.myvariable }}.
 
 title: David Goedicke (Ph.D.)
-email: d.goedicke@cornell.edu
+author:
+  name: David Goedicke
+  email: da.goedicke+WEBSITE@gmail.com
+#logo: 
+
 description: >- # this means to ignore newlines until "baseurl:"
   David's Portfolio: Innovating at the Intersection of 
   Immersive Experiences and Human-Robot Interaction. 
   Explore multiuser VR simulators, interactive art, and cutting-edge research.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "davidgoedicke.com" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "davidgoedicke.info" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: davidGoedicke
-github_username:  DavidGoedicke
-youtube_username: DavidGoedicke
-google_scholar: DavidGoedicke
+#github_username:  DavidGoedicke
+#youtube_username: DavidGoedicke
+#google_scholar: DavidGoedicke
 #linkedin_username: david-goedicke-969446b6
 
-# Build settings
-theme: jekyll-theme-minimal
-#plugins:
-# - jekyll-feed
+#theme: jekyll-theme-minimal
+theme: minima
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - cv.markdown
+  - research.markdown
+  - interactiveArt.markdown
+
+
+
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: auto
+
+
+
+
+
+minima:
+  social_links:
+   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en" }
+   - { platform: github,         user_url: "https://github.com/DavidGoedicke" }
+   - { platform: flickr,         user_url: "https://www.flickr.com/people/139018052@N06/" }
+   - { platform: youtube,        user_url: "https://www.youtube.com/@DavidGoedicke" }
+   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/david-goedicke-969446b6/" }
+  #  
+
+  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
+  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #  
+  #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
+  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
+  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
+  #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }

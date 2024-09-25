@@ -1,11 +1,10 @@
 ---
 layout: page
-show_title: false
+
 title: Research
 permalink: /research/
 
 ---
-## Research
 [My research work](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en) has spanned a wide range of application areas, consistently focusing on prototyping immersive experiences to elicit various types of responses from participants. My initial research in 2012 explored interactive playgrounds. Currently, my focus is on utilizing immersive technology to design and evaluate robotic and autonomous behaviors.
 
 ### Simulation

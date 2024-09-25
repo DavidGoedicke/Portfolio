@@ -1,14 +1,10 @@
 ---
 layout: page
-show_title: false
-title: (Interactive)Art
-permalink: /(interactive)art/
+title: others
+permalink: /others-things/
 
 ---
-
-### Interactives
 Over the years, I've collaborated on creating interactive art pieces, from physical installations like to digital video works to creating reactive theater stages.
-
 
 ### Music
 I began playing drums at age five and composing at 17. I performed in various bands and orchestras until I completed my Master's degree. Nowadays, I focus on composing solo pieces, mainly using software like LogicPro, Cubase, and Ableton. I collaborate on many video projects with [Emiel Harmsen](https://emielharmsen.com), providing the music, and have aspirations to venture into live music production/coding/DJing. 
@@ -20,7 +16,6 @@ I maintain a somewhat updated [SoundCloud](https://soundcloud.com/davidgoedi) an
 <small>(The black Boxes are not played and are used for scaling.)</small>.</figcaption>
 </figure>
  I love exploring new expressive tools for music and visuals. In this example, I used [IANNIX](https://www.iannix.org/en/), Max 7, and LogicPro to create the audio track for a 360 VR video. 
-
 
 <details>
 <summary>Identity in Motion (360 VR / Stereoscopic 3D / 60 fps)</summary>
@@ -35,7 +30,6 @@ I maintain a somewhat updated [SoundCloud](https://soundcloud.com/davidgoedi) an
 #### Music for videos
 Here is a selection of public videos that I have contributed music to:
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?si=rcvRrO6wb_nllHMs&amp;list=PLd1XIhJk4tHUlnRXcd41z2dhXp_6n4X1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ### Photos
 Like many, I enjoy photography. A curated selection of my work is available on Flickr.
