@@ -4,7 +4,7 @@ permalink: /
 show_title: false
 ---
 
-<figure style="float: right; width: 46%; text-align: center; padding: 10px">
+<figure style="float: right; width: 30%; text-align: center; padding: 20px">
   <img src="../assets/images/038A0787.jpeg" alt="A picture of David Goedicke. This picture was made by Marvin https://hci.informatik.uni-due.de/team/marvin-prochazka/ with Edit from Roman https://hci.informatik.uni-due.de/team/roman-heger/." width="100%">
 </figure>
 
