@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <figure style="float: right; width: 46%; text-align: center; padding: 10px">
-  <img src="../assets/images/DavidGoedicke.jpg" alt="A picture of David Goedicke. This picture was made by Amrit http://amritkwatra.com" width="100%">
+  <img src="../assets/images/038A0787.jpeg" alt="A picture of David Goedicke. This picture was made by Marvin https://hci.informatik.uni-due.de/team/marvin-prochazka/ with Edit from Roman https://hci.informatik.uni-due.de/team/roman-heger/." width="100%">
 </figure>
 
 # Welcome
