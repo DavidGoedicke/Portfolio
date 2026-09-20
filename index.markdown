@@ -10,13 +10,17 @@ show_title: false
 
 # Welcome
 
-I am David Goedicke, a researcher and innovator dedicated to advancing our understanding of human-technology interactions. My work focuses on developing immersive experiences and innovative prototypes to explore future technologies and their impact on society.
+I am David Goedicke, a researcher specializing in human-technology interaction, exploring how to design systems that preserve human agency in highly automated, AI-driven environments. Starting by observing existing interaction patterns, I explored system designs that ensure safe operation and preserve the user's agency as Automation and AI increase.
 
-Currently, I am a Postdoctoral Researcher at the University of Duisburg-Essen, where I collaborate with the [Human-Computer Interaction](https://hci.informatik.uni-due.de) under the mentorship of Prof. Dr. Stefan Schneegaß. My research specializes in utilizing VR/XR simulators and qualitative behavioral methods to investigate complex interactions between users, robots, and simulated agents in virtual and augmented environments.
+Much of my earlier work used simulation and rapid prototyping to study complex interactions with automated systems. This developed into a broader interest in reusable research software that makes research and its tools easier to understand, extend, compare, and trust.
 
-With a strong foundation in interactive art, game development, and music, I strive to enrich the qualitative depth of technological interactions, particularly in the domains of human-robot interaction and automated systems. My academic journey includes a Ph.D. in Information Science from Cornell Tech and an M.Sc. in Human Media Interaction from the University of Twente.
+More recently, I have expanded my perspective on how systems should be designed to support meaningful human control, from physical interfaces for automated machines to software infrastructure that helps domain experts build advanced, trustworthy technical systems without losing focus on their own expertise.
 
-Explore my [academic research]({% link research.markdown %}) and [interactive art projects]({% link interactiveArt.markdown %}). Additionally, you can listen to my [music productions]({% link interactiveArt.markdown %}/#Sound-Cloud) that reflect my interdisciplinary approach to technology and creativity.
+Currently, I explore these questions as a UX Designer at [Egosoft](https://egosoft.com) in Germany.
 
-For more details on my work and publications, visit my [Google Scholar profile](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en).
+My work is grounded in the idea that we must spend as much effort designing our relationship with technology as we do designing the technology itself.
+
+My academic background includes a postdoc at the University of Duisburg-Essen, a Ph.D. in Information Science from Cornell Tech, and an M.Sc. and B.Sc. from the University of Twente.
+
+See my [academic research]({% link research.markdown %}), [Google Scholar profile](https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en), and [interactive art projects]({% link interactiveArt.markdown %}).
 
